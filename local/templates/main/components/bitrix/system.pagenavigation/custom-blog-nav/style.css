@@ -1,0 +1,65 @@
+div.modern-page-navigation {
+    padding: 0.5em 0;
+}
+
+div.modern-page-navigation a,
+span.modern-page-current,
+span.modern-page-dots {
+    color: #000;
+    padding: 10px 15px;
+    border-radius: 0 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+div.modern-page-navigation a:hover {
+    color: #fff;
+    background: #655E7A;
+    border: 1px solid #655E7A;
+}
+
+div.modern-page-navigation a.modern-page-previous {
+    color: #000;
+    padding: 10px 15px;
+    border-radius: 0 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+div.modern-page-navigation a.modern-page-first,
+div.modern-page-navigation span.modern-page-first {
+    color: #000;
+    padding: 10px 15px;
+    border-radius: 0 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+span.modern-page-current {
+    font-weight: bold;
+    background: #655E7A;
+    color: #fff!important;
+}
+
+div.modern-page-navigation a,
+span.modern-page-current,
+div.modern-page-navigation a.modern-page-previous,
+span.modern-page-dots {
+    color: #000;
+    padding: 10px 15px;
+    border-radius: 0 !important;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}

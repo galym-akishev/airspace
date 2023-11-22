@@ -1,0 +1,34 @@
+div.mfeedback {
+    background-color: #47424C;
+    border-radius: 4px;
+    padding-left: 4px;
+}
+
+div.mf-name, div.mf-email, div.mf-captcha, div.mf-message {
+    width: 80%;
+    padding-bottom: 0.4em;
+}
+
+div.mf-name input, div.mf-email input {
+    width: 60%;
+}
+
+div.mf-message textarea {
+    width: 60%;
+}
+
+span.mf-req {
+    color: #c186ff;
+}
+
+.error-message {
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div.mf-ok-text {
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
